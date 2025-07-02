@@ -1,3 +1,5 @@
 Hii This is app.txt file. hello
 
 This is the text from branch_1
+
+this is the text from branch_2
